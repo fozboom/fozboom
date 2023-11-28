@@ -1,4 +1,4 @@
-## C++ Developer
+## Developer
 ___
 ### BSUIR
 ___
