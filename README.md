@@ -25,7 +25,13 @@ ___
 
 ### About Me
 
-I am a passionate and proficient software developer with experience in C++, C, Python, and Java. I am always eager to learn new technologies and improve my skills. I believe in writing clean, efficient code and I am committed to the best practices in software development.
+I am a passionate and proficient software developer with a strong background in C++, C, Python, and Java. My experience extends to system programming on Linux, where I have developed efficient and robust solutions.
+
+I have a deep understanding of Docker, which I have used to containerize applications, ensuring consistent behavior across different environments. My proficiency in database management, particularly with PostgreSQL, allows me to design, implement, and maintain complex data storage solutions.
+
+In addition to my back-end skills, I have experience working with front-end technologies like React. I am capable of creating dynamic and responsive user interfaces that provide a seamless user experience.
+
+I am always eager to learn new technologies and improve my skills. I believe in writing clean, efficient code and I am committed to the best practices in software development.
 
 ___
 
