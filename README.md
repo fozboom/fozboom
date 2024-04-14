@@ -17,9 +17,9 @@ ___
 
 ### Technologies
 
-![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux&logoColor=6296CC)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=6296CC)
+![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
 
 ___
 
