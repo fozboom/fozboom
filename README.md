@@ -27,11 +27,10 @@ ___
 
 > I am a **Quantitative Developer** at **MEG Analytics**, specializing in **data analysis, visualization**, and complex mathematical computations. 
 
-> During my time at **EPAM EPIC Institute**, I have expanded my expertise in **algorithms**, **modern programming languages**, **mathematics**, **statistics**, and **data science**, including areas of **machine learning**. 
+> I am currently a student at BSUIR and also studying at EPAM EPIC Institute*, where I focus on **algorithms**, **modern programming languages**, **mathematics**, **statistics**, and **data science**, including areas of **machine learning**. 
 > This comprehensive background allows me to approach problems analytically and devise robust solutions.
 
-> I am also a proficient **Linux** user, with experience in **system programming** and managing Linux environments. 
-> My background includes developing system-level applications and working with network protocols, giving me a solid understanding of **networking** concepts and operations.
+> I am also a proficient **Linux** user, with experience in **system programming** and managing Linux environments. I have developed system-level applications and worked with network protocols, gaining strong skills in **networking**.
 
 ___
 
