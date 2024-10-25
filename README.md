@@ -1,41 +1,55 @@
-## Daniel
+
+## ✨ **Daniel** ✨
 
 ___
 
-### BSUIR
+### 🏢 **EPAM EPIC Institute** & 💻 **Quantitative Developer at MEG Analytics**
 
 ___
 
-### Programming Languages
+### 🖥️ **Programming Languages**
 
-![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![C](https://img.shields.io/badge/-C-090909?style=for-the-badge&logo=C&logoColor=6296CC)
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=Python&logoColor=6296CC)
-![Java](https://img.shields.io/badge/Java-090909?style=for-the-badge&logo=openjdk&logoColor=6296CC)
+![C++](https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 
 ___
 
-### Technologies
+### 🐍 **Python Libraries & Tools**
 
-![Linux](https://img.shields.io/badge/Linux-090909?style=for-the-badge&logo=linux&logoColor=6296CC)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-090909?style=for-the-badge&logo=postgresql&logoColor=6296CC)
-![Docker](https://img.shields.io/badge/Docker-090909?style=for-the-badge&logo=docker&logoColor=6296CC)
+![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas&logoColor=6296CC)
+![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=numpy&logoColor=6296CC)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=python&logoColor=6296CC)
+![Jupyter](https://img.shields.io/badge/-Jupyter-090909?style=for-the-badge&logo=jupyter&logoColor=6296CC)
+![FastAPI](https://img.shields.io/badge/-FastAPI-090909?style=for-the-badge&logo=fastapi&logoColor=6296CC)
+___
+
+### 📝 **About Me**
+
+> I am a **Quantitative Developer** at **MEG Analytics**, specializing in **data analysis, visualization**, and complex mathematical computations. 
+
+> During my time at **EPAM EPIC Institute**, I have expanded my expertise in **algorithms**, **modern programming languages**, **mathematics**, **statistics**, and **data science**, including areas of **machine learning**. 
+> This comprehensive background allows me to approach problems analytically and devise robust solutions.
+
+> I am also a proficient **Linux** user, with experience in **system programming** and managing Linux environments. 
+> My background includes developing system-level applications and working with network protocols, giving me a solid understanding of **networking** concepts and operations.
 
 ___
 
-### About Me
+### 📚 **Core Skills & Technologies**
 
-I am a passionate and proficient software developer with a strong background in C++, C, Python, and Java. My experience extends to system programming on Linux, where I have developed efficient and robust solutions.
-
-I have a deep understanding of Docker, which I have used to containerize applications, ensuring consistent behavior across different environments. My proficiency in database management, particularly with PostgreSQL, allows me to design, implement, and maintain complex data storage solutions.
-
-In addition to my back-end skills, I have experience working with front-end technologies like React. I am capable of creating dynamic and responsive user interfaces that provide a seamless user experience.
-
-I am always eager to learn new technologies and improve my skills. I believe in writing clean, efficient code and I am committed to the best practices in software development.
+- **Data Analysis & Visualization** - ![Pandas](https://img.shields.io/badge/-Pandas-090909?style=for-the-badge&logo=pandas&logoColor=6296CC), ![NumPy](https://img.shields.io/badge/-NumPy-090909?style=for-the-badge&logo=numpy&logoColor=6296CC), ![Matplotlib](https://img.shields.io/badge/-Matplotlib-090909?style=for-the-badge&logo=python&logoColor=6296CC), ![SciPy](https://img.shields.io/badge/-SciPy-090909?style=for-the-badge&logo=python&logoColor=6296CC)
+- **Machine Learning & Data Science** - Currently study at EPAM EPIC Institute
+- **Programming & Algorithms** - Strong foundation in Python and algorithmic problem-solving
+- **System Programming** - Experience with **Linux**, shell scripting, and system-level programming
+- **Networking** - Understanding of network protocols, socket programming, and network tools
+- **Web Development** - Experience with **FastAPI**, **Java Spring Boot**
+- **Android Development** - Experience with **Kotlin**, **Jetpack Compose**
 
 ___
 
-### Connect with me on
+### 🤝 **Connect with Me**
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/fozboom)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/fozboom)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/fozboom)
+
+---
