@@ -1,17 +1,15 @@
 ## Daniel (@fozboom)
 
-**DevOps Engineer | Python Developer**
+### **DevOps Engineer | Python Developer**
 
 I am a **DevOps Engineer** focused on building resilient cloud infrastructure and efficient CI/CD pipelines. With a strong background in **Python development**, I bridge the gap between operations and engineering, applying software development principles to infrastructure (IaC) and automation.
 
 Currently, I specialize in **Clouds**, **Kubernetes**, and **GitOps** practices, turning manual deployments into seamless, automated workflows.
 
 
-**Contact me:** 
+#### **Contact me:** 
 [<img src='https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white' />](https://t.me/fozboom)
 ___
-
----
 
 ### Highlights
 
